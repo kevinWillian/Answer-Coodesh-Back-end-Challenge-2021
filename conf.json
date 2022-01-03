@@ -5,5 +5,5 @@
     "dbname":"d3j6cfng1kok7",
     "port":"5432",
     "sslmode":"require",
-    "TimeZone":"Asia/Shanghai"
+    "TimeZone":"utc"
 }
