@@ -14,7 +14,7 @@ Nesta resposta usei: **Go Lang | Postgress | Docker** com bibliotecas para GO: *
 
 ### Como instalar e usar a resposta:
 
- * O Docker deve estar devidamente instalado na maquina usada
+ * O Docker deve estar devidamente instalado e configurado na maquina usada
 
  * Configure o arquivo 'conf.json' com as configurações do banco de dados desejado
 
