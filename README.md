@@ -37,5 +37,5 @@ Nesta resposta usei: **Go Lang | Postgress | Docker** com bibliotecas para GO: *
  ## Para subir alterações no git antes execute (na raiz do projeto)
 
 
-    git update-index --assume-unchanged <file>
+    git update-index --assume-unchanged conf.json
 
