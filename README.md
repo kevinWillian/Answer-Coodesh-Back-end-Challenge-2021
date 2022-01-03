@@ -33,3 +33,8 @@ Nesta resposta usei: **Go Lang | Postgress | Docker** com bibliotecas para GO: *
     ```
 
  (dica) * leia o arquivo 'docs/api.md' para ver funções API disponiveis
+
+ ## Para subir alterações no git antes execute (na raiz do projeto)
+    ```
+    git update-index --assume-unchanged conf.json
+     ```
