@@ -36,8 +36,6 @@ Nesta resposta usei: **Go Lang | Postgress | Docker** com bibliotecas para GO: *
 
  ## Para subir alterações no git antes execute (na raiz do projeto)
 
-    ```
 
     docker run --publish 3000:3000 docker-answer-coodesh
 
-    ```
