@@ -21,20 +21,23 @@ Nesta resposta usei: **Go Lang | Postgress | Docker** com bibliotecas para GO: *
  * Na Raiz do projeto rode o comando:
     ```
 
-    docker build --tag docker-answer-coodesh .
+docker build --tag docker-answer-coodesh .
 
     ```
  * Em seguida rode a maquina Docker criada expondo a porta usada pela API no host:
 
     ```
 
-    docker run --publish 3000:3000 docker-answer-coodesh
+docker run --publish 3000:3000 docker-answer-coodesh
 
     ```
 
  (dica) * leia o arquivo 'docs/api.md' para ver funções API disponiveis
 
  ## Para subir alterações no git antes execute (na raiz do projeto)
+
     ```
-    git update-index --assume-unchanged conf.json
-     ```
+
+git update-index --assume-unchanged conf.json
+
+    ```
