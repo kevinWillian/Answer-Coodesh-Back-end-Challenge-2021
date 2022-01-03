@@ -1,0 +1,9 @@
+{
+    "host":"ec2-50-19-160-40.compute-1.amazonaws.com",
+    "user":"ushxovtgynsvtk",
+    "password":"076a16194b4ec85e5f79c33623e0ce92271e1fa56a2bfde510476bb611e04f36",
+    "dbname":"d3j6cfng1kok7",
+    "port":"5432",
+    "sslmode":"require",
+    "TimeZone":"Asia/Shanghai"
+}
