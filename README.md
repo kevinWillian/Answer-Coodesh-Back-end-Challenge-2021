@@ -9,7 +9,7 @@ Esta é a resposta desenvolvida por Kevin Willian Dos Santos ao desafio lançado
 
 # Tecnologias:
 
-Nesta resposta usei: **Go Lang | Postgress | Docker** com bibliotecas para GO: **go-chi | robfig-cron | rs-cors |driver-postgres (Official) | Gorm**
+Nesta resposta usei: **Go Lang | Postgress | Docker** com bibliotecas para GO: **go-chi | robfig-cron | rs-cors |driver-postgres | Gorm**
 
 
 ### Como instalar e usar a resposta:
