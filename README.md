@@ -7,6 +7,10 @@
 
 Esta é a resposta desenvolvida por Kevin Willian Dos Santos ao desafio lançado pela Coodesh chamado: "Back-end Challenge 🏅 2021 - Space Flight News". Nesta resposta temos uma API sincronizada com a Space Flight News.
 
+## Vídeo Introdutõrio
+
+link: https://drive.google.com/file/d/1XBcOQC_jyRpGoIDC2l4Ez8vF5s30y7UM/view?usp=sharing
+
 # Tecnologias:
 
 Nesta resposta usei: **Go Lang | Postgress | Docker** com bibliotecas para GO: **go-chi | robfig-cron | rs-cors |driver-postgres | Gorm**
