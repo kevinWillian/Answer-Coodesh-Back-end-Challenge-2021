@@ -21,14 +21,14 @@ Nesta resposta usei: **Go Lang | Postgress | Docker** com bibliotecas para GO: *
  * Na Raiz do projeto rode o comando:
     ```
 
-docker build --tag docker-answer-coodesh .
+    docker build --tag docker-answer-coodesh .
 
     ```
  * Em seguida rode a maquina Docker criada expondo a porta usada pela API no host:
 
     ```
 
-docker run --publish 3000:3000 docker-answer-coodesh
+    docker run --publish 3000:3000 docker-answer-coodesh
 
     ```
 
@@ -38,6 +38,6 @@ docker run --publish 3000:3000 docker-answer-coodesh
 
     ```
 
-git update-index --assume-unchanged conf.json
+    docker run --publish 3000:3000 docker-answer-coodesh
 
     ```
